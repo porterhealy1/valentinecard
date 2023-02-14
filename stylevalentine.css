@@ -1,0 +1,23 @@
+body{
+    background-color: lightcoral;
+    font-family: 'Pacifico', cursive;
+}
+
+h1{
+   font-size: 5vw; 
+}
+
+.woopty{
+    color:aquamarine;
+    font-size: 5vw;
+}
+
+.slum{
+    color:brown;
+    font-size: 5vw;
+}
+
+.responsive{
+    width: 75%;
+    height: auto;
+}
